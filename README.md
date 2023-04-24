@@ -8,4 +8,4 @@ Makes your current system a Micro11 system.
 
 ## Disclaimer
 
-Currently, the AME Playbook wizard detects the playbook as malicious. Feel free to look inside this playbook. After all, dont verify, trust. The password is "malte".
+Currently, the AME Playbook wizard detects the playbook as malicious. Feel free to look inside this playbook. After all, dont trust, verify. The password is "malte".
