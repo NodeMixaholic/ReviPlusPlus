@@ -1,4 +1,4 @@
-# Revi++
+# ReviPlusPlus
 Makes your current system a combo of a Revi and Micro11 system.
 
 ## Credits.
